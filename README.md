@@ -5,7 +5,6 @@
 - 📫 How to reach me asifhossain953@gmail.com
 - ⚡ Fun fact: I'm half finish
 
-Connect with me
 
 <!---
 yeasinARF/yeasinARF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
