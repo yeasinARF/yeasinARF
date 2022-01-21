@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I'm half finish
 
 Connect with me
-https://www.facebook.com/profile.php?id=100009509407869
+
 <!---
 yeasinARF/yeasinARF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
