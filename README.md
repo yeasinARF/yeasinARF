@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yeasin Arafat</h1>
-<h3 align="center">I’m passionate about front-end web development</h3>
+<h3 align="center">I’m passionate about MERN Full Stack web development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeasinarf&label=Profile%20views&color=0e75b6&style=flat" alt="yeasinarf" /> </p>
 
@@ -7,11 +7,7 @@
 
 - 🔭 I’m currently working on [Car Swap](https://car-swap-client.web.app/)
 
-- 🌱 I’m currently learning **Mern Stack Development**
-
-- 🔭 I’m currently working on [Door Step](https://door-step-client.web.app/)
-
-- 🔭 I’m currently working on [Learn With Fun](https://learn-with-fun-9e5a8.web.app/)
+- 🔭 I’m currently working on [Coder Web](https://billing-software-584ab.web.app/)
 
 - 👨‍💻 All of my projects are available at [https://yeasinarf.github.io/Portfolio-2.0/](https://yeasinarf.github.io/Portfolio-2.0/)
 
